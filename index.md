@@ -24,6 +24,8 @@ Stanford accelerate group works in three areas:
 
 ### Julie Kline
 
+![Julie](img/julie.jpg)
+
 | Email        | klinej AT stanford DOT edu |
 |:-------------|:------------------|
 | Contact      | Packard Building - Room 359, (650) 723-4539 |
